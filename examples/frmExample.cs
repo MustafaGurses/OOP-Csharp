@@ -15,10 +15,6 @@ namespace examples
         {
             InitializeComponent();
         }
-
-        /*
-         * This code was created on @kaynakkodum
-         */
         private float number1 = 0f;
         private float number2 = 0f;
         private void button1_Click(object sender, EventArgs e)
