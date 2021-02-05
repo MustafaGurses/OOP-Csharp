@@ -8,9 +8,6 @@ namespace examples.Polimorfizm
 {
     public class Polimorfizm_Animals : Polimorfizm_Main
     {
-        /*
-         * This code was created on @kaynakkodum
-         */
         private string AnimalName;
         public Polimorfizm_Animals(string AnimalName)
         {
