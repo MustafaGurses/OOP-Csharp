@@ -8,9 +8,6 @@ namespace examples.Polimorfizm
 {
     public class Polimorfizm_Main
     {
-        /*
-         * This code was created on @kaynakkodum
-         */
         public virtual string GetAnimalSound()
         {
             return "";
