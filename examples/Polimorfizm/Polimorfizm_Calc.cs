@@ -8,9 +8,6 @@ namespace examples.Polimorfizm
 {
     public class Polimorfizm_Calc : Polimorfizm_Main
     {
-        /*
-         * This code was created on @kaynakkodum
-         */
         private float number1;
         private float number2;
         private string TransactionType;
