@@ -1,0 +1,10 @@
+C:\Users\VAIO\source\repos\examples\bin\Debug\examples.exe.config
+C:\Users\VAIO\source\repos\examples\bin\Debug\examples.exe
+C:\Users\VAIO\source\repos\examples\bin\Debug\examples.pdb
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.Form1.resources
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.Properties.Resources.resources
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.csproj.GenerateResource.cache
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.exe
+C:\Users\VAIO\source\repos\examples\obj\Debug\examples.pdb
